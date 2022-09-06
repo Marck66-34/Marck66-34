@@ -1,6 +1,12 @@
 Hola mi nombre es Marco, 
 Te doy la Bienvenida a mi github donde conoceras mis diferentes proyectos
 #HTML, #CSS3, #JAVASCRIPT, #PYTHON.
+Perfil{
+Nacionalidad: Argentina
+Provincia: Buenos Aires
+Ciudad: La Plata
+Fecha de Nacimiento: 6/11/1995
+}
 Micontacto: {
 correo:marcorentero7@gmail.com
 telefono:+542216037680.
