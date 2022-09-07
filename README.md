@@ -1,6 +1,6 @@
 Hola mi nombre es Marco, 
 Te doy la Bienvenida a mi github donde conoceras mis diferentes proyectos
-#HTML, #CSS3, #JAVASCRIPT, #PYTHON.
+
 Perfil{
 Nacionalidad: Argentina
 Provincia: Buenos Aires
@@ -43,7 +43,9 @@ Tareas:Atencion (Via mail/telefonica), Uso de Excel, Resolver tareas, Entrega de
 Inicio: 1/03/2021
 Final: Trabajando actualmente
 }
-
+Tecnologia{
+#HTML, #CSS3, #JAVASCRIPT, #PYTHON.
+}
 Habilidades
 HTML 9 DE 10
 CSS 8 DE 10
