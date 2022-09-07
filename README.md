@@ -44,7 +44,12 @@ Inicio: 1/03/2021
 Final: Trabajando actualmente
 }
 Tecnologia{
-#HTML, #CSS3, #JAVASCRIPT, #PYTHON.
+#HTML:Competente
+#CSS3:Familiarizado
+#JAVASCRIPT:Familariziado
+#PYTHON: Experimentando.
+DJANGO: Experimentando.
+BASE DE DATOS: Experimentando.
 }
 Habilidades
 HTML 9 DE 10
