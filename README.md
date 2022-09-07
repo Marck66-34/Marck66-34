@@ -17,7 +17,8 @@ telefono:+542216037680.
 }
 Educacion{
 Escuela de Educacion Tecnica N°1 Grand Bourg: Secundaria completa
-Titulo: Bachiller en Bienes y Servicios
+Titulo: Bachiller en Bienes y Servicios(2016)
+Orientacion: Tecnico en Informatica
 ISFTN°12: Analista de Sistema
 Estado: Incompleto
 }
