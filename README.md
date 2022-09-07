@@ -33,11 +33,13 @@ Cursando actualmente.
 Experiencia Laboral{
 Puesto: Oficinista
 Empresa: QB ANDINA
+Tareas:Atencion (Via mail/telefonica), Uso de Excel, Resolver tareas, Entrega de tareas, Armado de equipo para dia laboral.
 Inicio: 20/11/2020
 Final : 1/03/2021
 
 Puesto: Oficinista
 Empresa: La Postal
+Tareas:Atencion (Via mail/telefonica), Uso de Excel, Resolver tareas, Entrega de tareas, Armado de equipo para dia laboral.
 Inicio: 1/03/2021
 Final: Trabajando actualmente
 }
