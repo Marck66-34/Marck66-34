@@ -6,6 +6,7 @@ Nacionalidad: Argentina
 Provincia: Buenos Aires
 Ciudad: La Plata
 Fecha de Nacimiento: 6/11/1995
+CUIL: 20393396572
 }
 Micontacto: {
 correo:marcorentero7@gmail.com
@@ -21,7 +22,7 @@ Educacion Propia{
 Cursos realizadosen CoderHouse(Java Script)
 Tiempo: 5 meses
 Cursos realizados en otros programas de educacion(Diseño y Lenguaje web, python)
-Tiempo: 3 meses
+Tiempo: 4 meses
 Cursos en desarollo y en tiempo real(Desarrollo en framework con Django(python), hablidades en java Script, html, css)
 Cursando actualmente.
 }
