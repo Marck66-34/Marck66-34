@@ -7,6 +7,9 @@ Provincia: Buenos Aires
 Ciudad: La Plata
 Fecha de Nacimiento: 6/11/1995
 CUIL: 20393396572
+Objetivo Laboral: Desarrollar tareas y responsabilidades en el area de desarollo en una empresa Sofware Factory u organizacion vinculada a la gestion de proyectos.
+Cuento con Orientacion a resultados, capacidad analitica, interes en el aprendizaje constante y trabajo en equipo.
+
 }
 Micontacto: {
 correo:marcorentero7@gmail.com
