@@ -46,10 +46,11 @@ Final: Trabajando actualmente
 Tecnologia{
 #HTML:Competente
 #CSS3:Familiarizado
-#JAVASCRIPT:Familariziado
+#JAVASCRIPT:Familarizado
 #PYTHON: Experimentando.
 DJANGO: Experimentando.
 BASE DE DATOS: Experimentando.
+WORD PRESS: Familiarizado
 }
 Habilidades
 HTML 9 DE 10
